@@ -1,3 +1,7 @@
+Veja o projeto rodadndo aqui: https://eager-borg-a5ba35.netlify.app/
+
+![Screenshot from 2021-04-02 12-59-33](https://user-images.githubusercontent.com/990877/113432303-84b7d000-93b3-11eb-9df7-8106825304fe.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
